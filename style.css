@@ -1,6 +1,6 @@
-body {
+body { 
     margin: 0;
-    padding: 0;
+    padding: 0; 
 }
 .first a {
     text-decoration: none;
@@ -82,7 +82,7 @@ height: 120px;
     line-height: .8;
 }
 /*#para1 button {
-    background-color:#FFC72C;
+    background-color:#FFC72C;hai this is edit
 }*/
 
 .link1 {

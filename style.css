@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.first a {
+    text-decoration: none;
+    color: black;
+}
+.first li {
+    list-style-type: none;
+    display: inline;
+    padding: 20px;
+}
+
+.logo {
+    margin-left: 150px;
+    
+}
+.second li {
+    list-style-type: none;
+    display: inline;
+    padding: 20px;
+}
+.second a {
+    text-decoration: none;
+    color: black;
+}
+
+.third a {
+    text-decoration: none;
+    color:black;
+}
+.third li {
+    list-style-type: none;
+    display: inline-flex;
+    padding-left: 55px;
+    padding-top: 10px;
+    
+}
+
+.first1 ul {
+ display: inline;
+ padding-left: 100px;
+}
+.third,.first1 {
+    float: right;
+    padding-right: 10px;
+    padding-top: 20px;
+    width: 80%;
+}
+.logo {
+    float: left;
+    margin-left: 100px;
+width: 100px;
+height: 120px;
+}
+.nav_bar {
+    width: 100%;
+    height: 150px;
+    box-shadow: 0px 1px 10px grey;
+    box-sizing: content-box;
+}
+#pic1 {
+    width: 60%;
+    height: 100%;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+#para1 {
+    width: 20%;
+    height: 100%;
+    margin-top: 80px;
+}
+#section1 {
+    display: flex;
+}
+#para1 p {
+    font-size: 20px;
+}
+#para1 h1 {
+    font-size: 30px;
+    line-height: .8;
+}
+/*#para1 button {
+    background-color:#FFC72C;
+}*/
+
+.link1 {
+    width: 200px;
+    height: 25px;
+    background-color: #FFC72C;
+    text-align: center;
+    border-radius: 6px;
+}
